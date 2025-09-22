@@ -8,9 +8,8 @@
 </p>
 
 # Laravel Testing Project
-![Laravel Test](https://github.com/abdanmsyarwani8-maker/Api-Unit-Testing/blob/main/.github/workflows/laravel-tests.yml)
+![Laravel Test](https://github.com/abdanmsyarwani8-maker/Api-Unit-Testing/action/workflows/laravel-tests.yml/badge.svg)
 
-https://github.com/abdanmsyarwani8-maker/Api-Unit-Testing/blob/main/.github/workflows/laravel-tests.yml
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:

@@ -8,7 +8,7 @@
 </p>
 
 # Laravel Testing Project
-![Laravel Test](https://github.com/abdanmsyarwani8-maker/Api-Unit-Testing/action/workflows/laravel-tests.yml/badge.svg)
+![Laravel Test](https://github.com/abdanmsyarwani8-maker/Api-Unit-Testing/blob/main/.github/workflows/laravel-tests.yml)
 
 ## About Laravel
 
